@@ -1,0 +1,5 @@
+ls =>listing all the files in current directory
+
+ git init => repo initialize
+
+ ls -a
